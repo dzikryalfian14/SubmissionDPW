@@ -1,2 +1,2 @@
 # SubmissionDPW
-ini adalah submission pada kelas Belajar Dasar Pemograman Web
+ini adalah submission pada kelas Belajar Dasar Pemograman Web pada platform Dicoding 
